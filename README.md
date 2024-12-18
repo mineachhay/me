@@ -4,7 +4,7 @@ Welcome to my personal resume website! 🚀
 This website showcases my professional background, skills, and projects. It's built using **HTML**, **CSS**, and **JavaScript**, and is hosted for free using **GitHub Pages**.
 
 ### 🔗 Live Website
-Visit my resume online here: [Your Resume Website Link](https://mineachhay.github.io/me/)
+Visit my resume online here: [My Resume Website Link](https://mineachhay.github.io/me/)
 
 ---
 
